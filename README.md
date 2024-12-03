@@ -68,14 +68,3 @@ A low-cost, intelligent robotic platform demonstrating advanced perception and n
 4. Flash embedded firmware  
 5. Calibrate sensors  
 
-## 🤝 Contributing  
-Contributions, issues, and feature requests are welcome!  
-
-## 📄 License  
-[Choose an appropriate license]  
-
-## 👥 Acknowledgments  
-- [List any libraries, tools, or inspirations]  
-
-## 📞 Contact  
-[Your contact information or project maintainer]
